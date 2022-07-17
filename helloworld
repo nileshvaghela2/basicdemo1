@@ -1,5 +1,3 @@
-public class HelloWorld {
-    public static void main(String[] args) { 
-        System.out.println("Hello, World");
-    }
-}
+echo "Hellow world"
+echo "This is git repository of Nilesh Vaghela"
+echo "We are testing GIT and Jenkins"
